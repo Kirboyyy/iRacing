@@ -1,0 +1,27 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'Ferrari F1 Wheel Advanced T300'
+   InstanceGUID: '{0A6956D0-6E53-11ED-8008-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32912
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 1023
+     CalibMax: 1023
+   - Axis: 2
+     AxisName: 'Throttle'
+     CalibMin: 0
+     CalibCenter: 1023
+     CalibMax: 1023
+   - Axis: 3
+     AxisName: 'Schieberegler'
+     CalibMin: 0
+     CalibCenter: 1022
+     CalibMax: 1023
+...
