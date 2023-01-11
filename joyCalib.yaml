@@ -12,16 +12,16 @@ CalibrationInfo:
    - Axis: 1
      AxisName: 'Y Axis'
      CalibMin: 0
-     CalibCenter: 1023
-     CalibMax: 1023
+     CalibCenter: 1012
+     CalibMax: 1018
    - Axis: 2
      AxisName: 'Throttle'
      CalibMin: 0
-     CalibCenter: 1023
-     CalibMax: 1023
+     CalibCenter: 1017
+     CalibMax: 1019
    - Axis: 3
      AxisName: 'Schieberegler'
      CalibMin: 0
-     CalibCenter: 1022
-     CalibMax: 1023
+     CalibCenter: 1012
+     CalibMax: 1014
 ...
